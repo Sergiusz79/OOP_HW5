@@ -6,8 +6,10 @@ import org.example.Data.RationalNumbers;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+import java.util.logging.Logger;
 
 public class Calculator implements CalcInterface {
+    Logger logger = Logger.getLogger(Calculator.class.getName());
 
     private List<ComplexNumbers> complexNumbers;
     private List<RationalNumbers> rationalNumbers;
@@ -45,6 +47,7 @@ public class Calculator implements CalcInterface {
         y = scanner.nextDouble();
         ComplexNumbers complexNumber2 = new ComplexNumbers(x, y);
         complexNumbers.add(complexNumber2);
+        logger.info(" User inserted - Комплкесные числа ");
     }
 
     @Override
@@ -65,6 +68,7 @@ public class Calculator implements CalcInterface {
         y = scanner.nextInt();
         RationalNumbers rationalNumber2 = new RationalNumbers(x, y);
         rationalNumbers.add(rationalNumber2);
+        logger.info(" User inserted - рациональные числа ");
 
     }
 

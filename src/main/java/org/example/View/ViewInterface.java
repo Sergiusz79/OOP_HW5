@@ -7,9 +7,9 @@ public interface ViewInterface {
 
     void set(String value);
 
-    void appendLog(String log);
+//    void appendLog(String log);
 
-    public void appendLog(List list);
+//    public void appendLog(List list);
 
-    void showLog();
+//    void showLog();
 }
