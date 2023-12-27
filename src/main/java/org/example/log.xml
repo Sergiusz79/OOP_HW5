@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-12-27T20:41:55.214664800Z</date>
+  <millis>1703709715214</millis>
+  <nanos>664800</nanos>
+  <sequence>0</sequence>
+  <logger>org.example.Controller.Controller</logger>
+  <level>INFO</level>
+  <class>org.example.Controller.Controller</class>
+  <method>start</method>
+  <thread>1</thread>
+  <message> Start </message>
+</record>
+<record>
+  <date>2023-12-27T20:42:03.298760800Z</date>
+  <millis>1703709723298</millis>
+  <nanos>760800</nanos>
+  <sequence>1</sequence>
+  <logger>org.example.Controller.Controller</logger>
+  <level>INFO</level>
+  <class>org.example.Controller.Controller</class>
+  <method>start</method>
+  <thread>1</thread>
+  <message> User selected = 1 - Комплкесные числа </message>
+</record>
+<record>
+  <date>2023-12-27T20:42:13.977341900Z</date>
+  <millis>1703709733977</millis>
+  <nanos>341900</nanos>
+  <sequence>3</sequence>
+  <logger>org.example.Controller.Controller</logger>
+  <level>INFO</level>
+  <class>org.example.Controller.Controller</class>
+  <method>workWithComplexNumbers</method>
+  <thread>1</thread>
+  <message> User selected = 1 - сложить числа </message>
+</record>
+<record>
+  <date>2023-12-27T20:42:20.113985300Z</date>
+  <millis>1703709740113</millis>
+  <nanos>985300</nanos>
+  <sequence>4</sequence>
+  <logger>org.example.Controller.Controller</logger>
+  <level>INFO</level>
+  <class>org.example.Controller.Controller</class>
+  <method>workWithComplexNumbers</method>
+  <thread>1</thread>
+  <message> User selected = 8 - ввести новые числа </message>
+</record>
+<record>
+  <date>2023-12-27T20:42:20.114983Z</date>
+  <millis>1703709740114</millis>
+  <nanos>983000</nanos>
+  <sequence>5</sequence>
+  <logger>org.example.Controller.Controller</logger>
+  <level>INFO</level>
+  <class>org.example.Controller.Controller</class>
+  <method>start</method>
+  <thread>1</thread>
+  <message> Start </message>
+</record>
+<record>
+  <date>2023-12-27T20:42:22.665362Z</date>
+  <millis>1703709742665</millis>
+  <nanos>362000</nanos>
+  <sequence>6</sequence>
+  <logger>org.example.Controller.Controller</logger>
+  <level>INFO</level>
+  <class>org.example.Controller.Controller</class>
+  <method>start</method>
+  <thread>1</thread>
+  <message> User selected = 2 - рациональные числа </message>
+</record>
+<record>
+  <date>2023-12-27T20:42:34.337093Z</date>
+  <millis>1703709754337</millis>
+  <nanos>93000</nanos>
+  <sequence>8</sequence>
+  <logger>org.example.Controller.Controller</logger>
+  <level>INFO</level>
+  <class>org.example.Controller.Controller</class>
+  <method>workWithRationalNumbers</method>
+  <thread>1</thread>
+  <message> User selected = 1 - сложить числа </message>
+</record>
+<record>
+  <date>2023-12-27T20:42:38.786708200Z</date>
+  <millis>1703709758786</millis>
+  <nanos>708200</nanos>
+  <sequence>9</sequence>
+  <logger>org.example.Controller.Controller</logger>
+  <level>INFO</level>
+  <class>org.example.Controller.Controller</class>
+  <method>workWithRationalNumbers</method>
+  <thread>1</thread>
+  <message> User selected = 0 - выход </message>
+</record>
+</log>

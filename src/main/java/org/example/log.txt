@@ -1,0 +1,16 @@
+дек. 27, 2023 9:36:29 PM org.example.Controller.Controller start
+INFO:  Start 
+дек. 27, 2023 9:36:44 PM org.example.Controller.Controller start
+INFO:  User selected = 1 - Комплкесные числа 
+дек. 27, 2023 9:37:21 PM org.example.Controller.Controller workWithComplexNumbers
+INFO:  User selected = 1 - сложить числа 
+дек. 27, 2023 9:37:48 PM org.example.Controller.Controller workWithComplexNumbers
+INFO:  User selected = 8 - ввести новые числа 
+дек. 27, 2023 9:37:48 PM org.example.Controller.Controller start
+INFO:  Start 
+дек. 27, 2023 9:38:03 PM org.example.Controller.Controller start
+INFO:  User selected = 2 - рациональные числа 
+дек. 27, 2023 9:38:20 PM org.example.Controller.Controller workWithRationalNumbers
+INFO:  User selected = 1 - сложить числа 
+дек. 27, 2023 9:38:39 PM org.example.Controller.Controller workWithRationalNumbers
+INFO:  User selected = 0 - выход 
